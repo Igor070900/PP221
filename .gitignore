@@ -1,4 +1,5 @@
 /2.2.1. spring_hibernate/target/
+/2.2.1. spring_hibernate/.idea/
 .idea/
 pom.xml
 target/
